@@ -1,3 +1,2 @@
 # octanet_task1
-I Have Completed Octanet Internship Task 1 To Create Landing Page Using Html, Css And JavaScript
-In this Task I Selected The Starbuck product to create a landing page
+I Have Upload All The Task Which I Completed During Octanet Internship Task 1 To Create Landing Page, Task 2 TO-DO List Using Html, Css And JavaScript.
